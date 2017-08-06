@@ -1,0 +1,25 @@
+{
+	"name": "Invert Colors",
+	"description": "Invert the color of selcted layers",
+	"author": "Seiji Miyazawa",
+	"authorEmail": "onthehead@gmail.com",
+	"version": 1.0,
+	"identifier": "com.onthehead.invert-colors",
+	"compatibleVersion": 45,
+	"commands": [
+		{
+			"script": "action.js",
+			"handler": "invertColors",
+			"shortcut": "command control i",
+			"name": "Invert Colors",
+			"identifier": "invert-colors"
+		}
+	],
+	"menu": {
+		"isRoot": true,
+		"items": [
+		  "invert-colors"
+		],
+		"title": "Invert Colors"
+	}
+}
