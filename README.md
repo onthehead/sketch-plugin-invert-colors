@@ -3,4 +3,4 @@ This plugin invert colors (textColor, fills, borders, gradations) of the selecte
 
 ## Shortcut
 
-* Invert Colors `⌘` + `⌃` + `I`
+* Invert Colors: `⌘` + `⌃` + `I`
